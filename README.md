@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on front-end development projects
-- 📫 How to reach me through my email pandeyayush804@gmail.com
+- 📫 Reach me through my email pandeyayush804@gmail.com
 
 <!---
 ayushpandey121/ayushpandey121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
